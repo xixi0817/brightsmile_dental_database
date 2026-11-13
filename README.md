@@ -85,9 +85,10 @@ The Access file itself is not included because it contains sample contact record
 
 ## My Role
 
-Team project. I led the project and built the database:
+This was a three-person team project.
 
-- Designed the ER model and normalized it to Third Normal Form, together with Caroline Guirand.
+- Led the project.
+- Worked on the ER model and its normalization to Third Normal Form.
 - Built the tables and relationships in Microsoft Access.
 - Built the login, dashboard, and patient, appointment, and employee forms.
 - Wrote the queries and built the monthly and provider reports.
