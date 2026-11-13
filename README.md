@@ -85,8 +85,9 @@ The Access file itself is not included because it contains sample contact record
 
 ## My Role
 
-Team project. I led the project and built the database:
+Team project.
 
+- Led the project.
 - Worked on the ER model and its normalization to Third Normal Form.
 - Built the tables and relationships in Microsoft Access.
 - Built the login, dashboard, and patient, appointment, and employee forms.
