@@ -85,7 +85,7 @@ The Access file itself is not included because it contains sample contact record
 
 ## My Role
 
-Team project.
+This was a three-person team project.
 
 - Led the project.
 - Worked on the ER model and its normalization to Third Normal Form.
